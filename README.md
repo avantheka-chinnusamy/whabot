@@ -1,0 +1,1 @@
+# bot to automatically launch and login into a Zoom meeting through WhatsApp where the Zoom invitation/ login details are forwarded to a sanbox greated through twilio which webhoks the data to a local host url exposed to the global network Vortex. My first project.
